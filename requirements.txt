@@ -1,0 +1,6 @@
+pygame
+tensorflow
+pyyaml
+h5py
+keras
+matplotlib
